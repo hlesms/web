@@ -1,0 +1,28 @@
+ath
+A
+
+GK Kepa
+DF M_Etxeberria
+DF S_Dest
+DF K_Tierney
+DM O_Sancet
+MF R_Galarreta
+MF U_Naveira 
+MF Van_de_Beek
+FW I_Williams
+AM Unai_Lopez
+FW A_Villalibre
+
+GK D_Conde
+DF J_Bernaola 
+DF A_Capa
+MF V_Bartolome
+FW N_Williams
+
+PK: A_Villalibre
+
+AGG 12
+SUB 6 14 DF IF RED DF
+SUB 2 14 DF IF MIN = 74
+SUB 9 16 FW IF MIN = 75
+SUB 10 15 AM IF MIN = 76
